@@ -1,3 +1,3 @@
 import "./style.scss";
 
-module.hot?.accept();
+// img.src = logo;

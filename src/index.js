@@ -1,3 +1,1 @@
-import "./style.scss";
-
-// img.src = logo;
+import './styles/style.scss';
